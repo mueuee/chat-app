@@ -17,6 +17,11 @@ Welcome to **Chat App** – a modern, real-time chat application that’s as str
 
 In essence, this is more than just a chat application—it's a testament to the creativity and efficiency of modern coding practices. Get ready to experience an intuitive interface that brings the art of conversation to life on your screen.
 
+
+<img width="1461" alt="Screenshot 2025-02-22 at 11 14 33 AM" src="https://github.com/user-attachments/assets/697ef459-0744-4e49-9dc7-9ec907d37889" />
+
+
+
 ## Features
 - **Real-Time Messaging:** Experience lightning-fast communication powered by websockets.
 - **Multiple Chat Rooms:** Create or join distinct channels to organize conversations.
