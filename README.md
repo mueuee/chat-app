@@ -32,8 +32,8 @@ In essence, this is more than just a chat application—it's a testament to the 
 ## Technologies Used
 - **Node.js & Express.js:** The backbone of our server, managing routes and API endpoints.
 - **Socket.IO:** Empowers real-time, bidirectional communication between the client and server.
-- **HTML5, CSS3, and JavaScript:** Form the foundation of our responsive and interactive front end.
-- *(Optional)* **Additional Libraries/Frameworks:** List any extra tools you used (e.g., React, Redux, Sass).
+- **HTML5, Tailwind CSS, and JavaScript:** Form the foundation of our responsive and interactive front end.
+
 
 ## Installation
 To get a copy of the Chat App up and running on your local machine, follow these simple steps:
